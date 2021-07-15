@@ -6,3 +6,10 @@ Projects
 * Dimensionality reduction using feature selection techniques (Correlation filter, Random forest and Lasso for feature selection)
 * Implementing simple and multiple regression models to find the best model (Linear, Lasso, Ridge, Random Forest)
 * Comparing the performance of the models (Coeficient of determination/adjusted coef., p-norm/Lp-norm of vectors)
+
+# [Project 2: Data Science Project - Wine Quality Classification]
+* Classification of white wines depending on measured properties
+* Feature engineering
+* Dimensionality reduction using feature selection (Correlation filter, F-value)
+* Simple validation, Cross-validation techniques
+* Implementing classification models to find the best model (Support Vector Machine, Decision Tree, Random Forest)
