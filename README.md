@@ -7,7 +7,7 @@ Projects
 * Implementing simple and multiple regression models to find the best model (Linear, Lasso, Ridge, Random Forest)
 * Comparing the performance of the models (Coeficient of determination/adjusted coef., p-norm/Lp-norm of vectors)
 
-# [Project 2: Data Science Project - Wine Quality Classification]
+# [Project 2: Data Science Project - Wine Quality Classification](https://github.com/dsnic/Wine_quality_classification)
 * Classification of white wines depending on measured properties
 * Feature engineering
 * Dimensionality reduction using feature selection (Correlation filter, F-value)
