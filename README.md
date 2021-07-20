@@ -1,4 +1,4 @@
-# Nic_Portofolio
+# Nic_Projects
 Projects
 
 # [Project 1: Data Science Project - Car Price Prediction Using Regression Analysis](https://github.com/dsnic/Car_price_prediction)
